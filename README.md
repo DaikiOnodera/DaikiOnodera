@@ -5,7 +5,7 @@ Tech lead at **LAMP, Co., Ltd.** — commerce software for restaurants, bakeries
 - **Take Eats** — online ordering and takeout platform used by several hundred stores.
 - **Ritel** — AI-driven CRM built on top of it: customer segmentation, campaign mail, and an LLM consultant that reads a store's own order history and proposes what to sell next.
 
-Before commerce my work was on the machine learning side. I was part of the team that started the AI division at **GRID**, where I contributed to **ReNom**, a deep learning framework — mostly GPU layers on the CNN side. Then **Accenture** — defect detection and predictive maintenance for manufacturing lines, clustering and recommendation for retail marketing — followed by embedded and edge AI at **eForce**, and independent work across ML and web products.
+Before commerce my work was on the machine learning side. I was part of the team that started the AI division at **GRID**, where I contributed to **ReNom**, a deep learning framework. Then **Accenture** — defect detection and predictive maintenance for manufacturing lines, clustering and recommendation for retail marketing — followed by embedded and edge AI at **eForce**, and independent work across ML and web products.
 
 Go, TypeScript/React, Python. MySQL, PostgreSQL, BigQuery, AWS.
 MS in Computer Science, Hokkaido University.
