@@ -13,3 +13,4 @@ MS in Computer Science, Hokkaido University.
 ### Agentic commerce
 
 UCP-powered checkout is live in the US, Canada and Australia; Japan is not on the map yet. Japanese food commerce carries constraints those markets don't surface — pickup and delivery time slots, tax-inclusive pricing across mixed 8% / 10% rates, per-store operating hours, and inventory that changes during the day. I'd like to see those represented in the spec, and I can bring implementation feedback from a live ordering platform.
+
